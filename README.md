@@ -2,11 +2,11 @@
 # Short intstructions:
 
 
-1. git clone https://github.com/vadika/qemu-bpmp/
-2. git checkout -b v7.2.0-bpmp
-3. $ cd qemu
-   $ ./configure --target-list=aarm64-softmmu
-   $ make -j12
+1. git clone git@github.com:KimGSandstrom/qemu-bpmp.git
+2. git checkout -b v8.1.0-bpmp
+3. cd qemu
+4. ./configure.sh
+5. make -j12
 
 
 
